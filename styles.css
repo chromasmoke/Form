@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body{
+	background-image:url(../img/grey_wash_wall.png);
+}
+.textContainer
+{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left:10%;
+	
+	margin-top:50px;
+	margin-left:25%;
+	margin-right:25%;
+	margin-bottom:100px;
+	
+	border-style: solid;
+    border-width: 5px;
+	border-color: #D8BABE;
+	border-radius: 10px;
+				
+	background-color: #ffffff;	
+	
+	font-family: 'Josefin Sans', sans-serif;
+	
+}
+
+
+#state{
+	border-radius: 5px;
+	background-color: #ffffff;
+		
+}
+
+#mi{
+	
+	width: 20px;
+}
+
+#address{
+
+	width: 155px;
+
+}
+
+
+#areaCode{
+	width:50px;
+}
+
+#phoneFieldOne{
+	width:50px;
+}
+
+#phoneFieldTwo{
+	width:60px;
+}
+
+#radioForm{
+	
+	padding:10px;
+	margin-right: 70%;
+	border-style: solid;
+    border-width: 1.5px;
+	border-color: #C7C7C7;
+	border-radius: 4px;
+				
+}
+
+#zipCode
+{
+	
+	width: 60px;
+}
+
